@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.stream.IntStream;
 
 //https://github.com/pjebs/optimus-go/blob/v1.0.0/optimus.go
-
+//https://github.com/patrickfav/id-mask
 public class Optimus {
     @Getter
     private static final int MAX_INT = Integer.MAX_VALUE;//2147483647 = 2^31-1
